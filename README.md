@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" />
+-->
 
 ### I'm Zeng-Geng Su
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
 - 🏆 2020全臺大專校院智慧創新暨跨域整合創作競賽 數位永續科技組 第一名
 
+<!--
 <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
+-->

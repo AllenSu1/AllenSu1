@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### I'm Zeng-Geng Su
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
-- 🏆 2020全國大專校院智慧創新暨跨域整合創作競賽 數位永續科技組 第一名
+- 🏆 2020 Taiwan大專校院智慧創新暨跨域整合創作競賽 數位永續科技組 第一名
 
 <!--
 <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />

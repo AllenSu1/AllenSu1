@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <!--
+<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
+-->
+<!--
 <img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" />
 -->
 
@@ -25,5 +28,5 @@ Here are some ideas to get you started:
 - 🏆
 
 <!--
-<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
+<img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" />
 -->

@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
+<!-- <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" /> -->
 ### I'm Zeng-Geng Su
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
 - 🏆
 
 
-<img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" />
+<!-- <img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" /> -->

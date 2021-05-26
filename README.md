@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
-- 🏆 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
+- 🏆 
+- 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 
 
 <img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" />

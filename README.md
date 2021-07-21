@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology)
 - 🏆 
+- 🏅 AIdea: 2021-自動光學瑕疵檢測 19/487 (3.9%)
 - 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 
 

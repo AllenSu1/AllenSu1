@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" /> -->
 
-- 🎓 國立臺北科技大學 (National Taipei University of Technology)
+- 🎓 國立臺北科技大學 (National Taipei University of Technology, NTUT)
 - 🏆 2020 全臺大專校院智慧創新暨跨域整合創作競賽 數位永續科技組 第一名
 - 🏅 AIdea: 2021-自動光學瑕疵檢測 19/487 (3.9%)
 - 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)

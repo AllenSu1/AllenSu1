@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 
 
-<img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" />
+<!-- <img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" /> -->

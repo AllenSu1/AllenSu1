@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 <!-- <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" /> -->
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology, NTUT)
+- 🥇 榮獲「大專校院智慧創新暨跨域整合創作競賽- 數位永續科技組」第一名
+- 🥉 榮獲「大專校院智慧創新暨跨域整合創作競賽- 物聯網組」第三名
+- 🏅 入圍「智慧晶片系統應用創新專題實作競賽」決賽
+- 🏅 入圍「中華電信IoT大平台創意應用大賽」16強決賽
 - 🏅 AIdea: 2021-自動光學瑕疵檢測 19/487 (3.9%)
 - 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 

@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+&emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 <!--
 **AllenSu1/AllenSu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +27,5 @@ Here are some ideas to get you started:
 
 
 <!-- <img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" /> -->
+<!-- GitHub Activity Graph -->
+<div align="center"><img height="226px" src="https://activity-graph.herokuapp.com/graph?username=AllenSu1&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div>

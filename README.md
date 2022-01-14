@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=AllenSu1 alt=AllenSu1/> 
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)</p>
+<img src=https://komarev.com/ghpvc/?username=AllenSu1 alt=AllenSu1/> 
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 <!--
 **AllenSu1/AllenSu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

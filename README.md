@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" /> -->
+<img height="160" align="center" src="https://github-profile-trophy.vercel.app/?username=AllenSu1&column=7&margin-w=5" />
 
 - 🎓 國立臺北科技大學 (National Taipei University of Technology, NTUT)
 - 🥇 榮獲「大專校院智慧創新暨跨域整合創作競賽- 數位永續科技組」第一名
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 🏅 AIdea: 愛文芒果不良品分類競賽 38/777 (4.8%)
 
 
-<!-- <img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" /> -->
+<img height="160" align="lift" src="https://github-readme-stats.vercel.app/api?username=AllenSu1&show_icons=True&count_private=True" />
 <!-- GitHub Activity Graph -->
 <!-- <div align="center"><img height="226px" src="https://activity-graph.herokuapp.com/graph?username=AllenSu1&theme=react-dark&color=00ADFF&bg_color=010F2C" /></div> -->
